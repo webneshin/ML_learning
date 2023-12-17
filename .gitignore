@@ -180,3 +180,6 @@ cython_debug/
 009/ClassificationRegressionPart2-plix/*/*
 !009/ClassificationRegressionPart2-plix/note.txt
 !009/ClassificationRegressionPart2-plix/*/*.ipynb
+
+011/*/*/*
+!011/*/*/*.ipynb
